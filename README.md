@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/matthewisler/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
