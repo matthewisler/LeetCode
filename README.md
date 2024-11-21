@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/matthewisler/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/matthewisler/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/matthewisler/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
