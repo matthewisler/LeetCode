@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/matthewisler/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/matthewisler/LeetCode/tree/master/0058-length-of-last-word) |
 | [1894-merge-strings-alternately](https://github.com/matthewisler/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
@@ -21,10 +22,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/matthewisler/LeetCode/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/matthewisler/LeetCode/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
