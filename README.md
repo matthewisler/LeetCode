@@ -7,6 +7,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/matthewisler/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/matthewisler/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/matthewisler/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/matthewisler/LeetCode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/matthewisler/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/matthewisler/LeetCode/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/matthewisler/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/matthewisler/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/matthewisler/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/matthewisler/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
