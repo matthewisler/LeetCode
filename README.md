@@ -25,6 +25,7 @@
 | [0125-valid-palindrome](https://github.com/matthewisler/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/matthewisler/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/matthewisler/LeetCode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/matthewisler/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/matthewisler/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -53,6 +54,7 @@
 | [0012-integer-to-roman](https://github.com/matthewisler/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/matthewisler/LeetCode/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/matthewisler/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
@@ -115,4 +117,8 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/matthewisler/LeetCode/tree/master/0045-jump-game-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/matthewisler/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
