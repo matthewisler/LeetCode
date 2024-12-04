@@ -25,6 +25,7 @@
 | [0125-valid-palindrome](https://github.com/matthewisler/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/matthewisler/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/matthewisler/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/matthewisler/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/matthewisler/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
@@ -60,6 +61,7 @@
 | [0012-integer-to-roman](https://github.com/matthewisler/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/matthewisler/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/matthewisler/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/matthewisler/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/matthewisler/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
@@ -114,6 +116,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/matthewisler/LeetCode/tree/master/0242-valid-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/matthewisler/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/matthewisler/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
