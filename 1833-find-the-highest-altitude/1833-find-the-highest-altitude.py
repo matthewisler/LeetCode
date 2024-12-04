@@ -3,8 +3,7 @@ class Solution:
         curr_alt = 0
         ret_list = [0]
         for i, point in enumerate(gain):
-            ret_list.append(curr_alt + point)
             curr_alt += point
-        print(f"ret_list: {ret_list}")
+            ret_list.append(curr_alt)
         return max(ret_list)
         
