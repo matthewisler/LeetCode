@@ -21,6 +21,7 @@
 | [0013-roman-to-integer](https://github.com/matthewisler/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/matthewisler/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/matthewisler/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/matthewisler/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/matthewisler/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/matthewisler/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/matthewisler/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/matthewisler/LeetCode/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/matthewisler/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/matthewisler/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/matthewisler/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -61,6 +63,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/matthewisler/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/matthewisler/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/matthewisler/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/matthewisler/LeetCode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/matthewisler/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/matthewisler/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/matthewisler/LeetCode/tree/master/0290-word-pattern) |
@@ -118,6 +121,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/matthewisler/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/matthewisler/LeetCode/tree/master/0242-valid-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/matthewisler/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/matthewisler/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
