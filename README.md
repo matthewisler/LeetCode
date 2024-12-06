@@ -35,6 +35,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/matthewisler/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/matthewisler/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/matthewisler/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -144,4 +145,12 @@
 | ------- |
 | [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
 | [1777-determine-if-two-strings-are-close](https://github.com/matthewisler/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
