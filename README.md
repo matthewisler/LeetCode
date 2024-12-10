@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0969-number-of-recent-calls](https://github.com/matthewisler/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -170,4 +171,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/matthewisler/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/matthewisler/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/matthewisler/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
