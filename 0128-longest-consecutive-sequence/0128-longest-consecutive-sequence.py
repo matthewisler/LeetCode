@@ -14,14 +14,11 @@ class Solution:
             else:
                 if prev_num + 1 == num:
                     count += 1
-                    print(count)
                     max_count = max(count, max_count)
-                    print(f"max_count: {max_count}")
                 else:
                     if prev_num == num:
                         continue
                     else:
-                        print(count)
                         count = 1
             prev_num = num
         return max_count
