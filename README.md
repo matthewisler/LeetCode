@@ -33,6 +33,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/matthewisler/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/matthewisler/LeetCode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/matthewisler/LeetCode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/matthewisler/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/matthewisler/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/matthewisler/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -118,6 +119,7 @@
 | [0134-gas-station](https://github.com/matthewisler/LeetCode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/matthewisler/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/matthewisler/LeetCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/matthewisler/LeetCode/tree/master/0649-dota2-senate) |
 ## Trie
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/matthewisler/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/matthewisler/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
