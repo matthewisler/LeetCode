@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/matthewisler/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/matthewisler/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/matthewisler/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/matthewisler/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/matthewisler/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/matthewisler/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/matthewisler/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/matthewisler/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/matthewisler/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/matthewisler/LeetCode/tree/master/0128-longest-consecutive-sequence) |
