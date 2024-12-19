@@ -50,6 +50,7 @@
 | [0036-valid-sudoku](https://github.com/matthewisler/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/matthewisler/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/matthewisler/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/matthewisler/LeetCode/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/matthewisler/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/matthewisler/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/matthewisler/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -176,6 +177,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/matthewisler/LeetCode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/matthewisler/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
@@ -203,4 +205,5 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/matthewisler/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/matthewisler/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
