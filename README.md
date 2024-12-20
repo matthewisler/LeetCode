@@ -197,6 +197,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/matthewisler/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/matthewisler/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -206,4 +207,8 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/matthewisler/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/matthewisler/LeetCode/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/matthewisler/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
