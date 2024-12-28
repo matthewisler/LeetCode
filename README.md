@@ -29,6 +29,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/matthewisler/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/matthewisler/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/matthewisler/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/matthewisler/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/matthewisler/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -101,6 +102,7 @@
 | [0009-palindrome-number](https://github.com/matthewisler/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/matthewisler/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/matthewisler/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/matthewisler/LeetCode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/matthewisler/LeetCode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/matthewisler/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/matthewisler/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/matthewisler/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/matthewisler/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
@@ -220,4 +223,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/matthewisler/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/matthewisler/LeetCode/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/matthewisler/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
