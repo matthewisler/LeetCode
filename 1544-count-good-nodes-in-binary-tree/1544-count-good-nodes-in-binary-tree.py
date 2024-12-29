@@ -6,7 +6,6 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        
         def dfs(node, max_val):
             nonlocal count
             if node.val >= max_val:
