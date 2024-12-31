@@ -235,6 +235,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/matthewisler/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/matthewisler/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/matthewisler/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/matthewisler/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/matthewisler/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/matthewisler/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
