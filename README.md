@@ -37,6 +37,7 @@
 | [0290-word-pattern](https://github.com/matthewisler/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/matthewisler/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/matthewisler/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/matthewisler/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/matthewisler/LeetCode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/matthewisler/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/matthewisler/LeetCode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/matthewisler/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/matthewisler/LeetCode/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/matthewisler/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -227,6 +229,7 @@
 | [0002-add-two-numbers](https://github.com/matthewisler/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/matthewisler/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/matthewisler/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/matthewisler/LeetCode/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
