@@ -30,6 +30,7 @@
 | [0049-group-anagrams](https://github.com/matthewisler/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/matthewisler/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/matthewisler/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/matthewisler/LeetCode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/matthewisler/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/matthewisler/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -55,6 +56,7 @@
 | [0045-jump-game-ii](https://github.com/matthewisler/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/matthewisler/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/matthewisler/LeetCode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/matthewisler/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/matthewisler/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/matthewisler/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/matthewisler/LeetCode/tree/master/0134-gas-station) |
@@ -193,6 +195,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/matthewisler/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/matthewisler/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/matthewisler/LeetCode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/matthewisler/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
