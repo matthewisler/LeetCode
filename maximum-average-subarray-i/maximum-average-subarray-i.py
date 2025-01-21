@@ -9,8 +9,6 @@ class Solution:
         
         for i in range(k, len(nums)):
             curr += nums[i] - nums[i-k]
-            left += 1
-            right += 1
         
             ans = max(ans, curr/k)
         
