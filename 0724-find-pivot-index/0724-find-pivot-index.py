@@ -1,12 +1,10 @@
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
-        left = right = curr = ans = 0
         left_sum = right_sum = 0
         prefix = [nums[0]]
         for i in range(1, len(nums)):
             prefix.append(prefix[-1]+nums[i])
         
-        print(f"prefix: {prefix}")
         for i in range(0, len(prefix)):
             if i == 0:
                 left_sum = 0
