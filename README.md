@@ -81,6 +81,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/matthewisler/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/matthewisler/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/matthewisler/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2211-k-radius-subarray-averages](https://github.com/matthewisler/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/matthewisler/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/matthewisler/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/matthewisler/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2211-k-radius-subarray-averages](https://github.com/matthewisler/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 ## Dynamic Programming
 |  |
 | ------- |
