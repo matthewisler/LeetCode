@@ -4,7 +4,6 @@ class Solution:
         ans = [gain[0]]
         for i in range(1, len(gain)):
             ans.append(ans[-1] + gain[i])
-        print(ans)
         return max(max(ans), 0)
 
 
