@@ -6,8 +6,8 @@ class Solution:
         curr = ans = 0
 
         for num in nums:
-            curr += num % 2
-            ans += counts[curr - k]
+            curr += num%2
+            ans += counts[curr-k]
             counts[curr] += 1
         
         return ans
