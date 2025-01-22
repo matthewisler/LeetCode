@@ -43,6 +43,7 @@
 | [0443-string-compression](https://github.com/matthewisler/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/matthewisler/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0649-dota2-senate](https://github.com/matthewisler/LeetCode/tree/master/0649-dota2-senate) |
+| [0965-unique-email-addresses](https://github.com/matthewisler/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/matthewisler/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/matthewisler/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/matthewisler/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -81,6 +82,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/matthewisler/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/matthewisler/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/matthewisler/LeetCode/tree/master/0735-asteroid-collision) |
+| [0965-unique-email-addresses](https://github.com/matthewisler/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1046-max-consecutive-ones-iii](https://github.com/matthewisler/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/matthewisler/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/matthewisler/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -116,6 +118,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/matthewisler/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0965-unique-email-addresses](https://github.com/matthewisler/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1319-unique-number-of-occurrences](https://github.com/matthewisler/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/matthewisler/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/matthewisler/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
