@@ -9,7 +9,6 @@ class NumArray:
     def sumRange(self, left: int, right: int) -> int:
         if left == 0:
             return self.prefix[right]
-        
         return self.prefix[right] - self.prefix[left-1] 
 
 
