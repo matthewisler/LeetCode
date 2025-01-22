@@ -5,9 +5,13 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in range(0, len(nums)):
-            for j in range(0, len(nums)):
-                if i == j:
-                    continue 
-                elif nums[i] + nums[j] == target:
-                    return [i, j]
+        dic = {}
+        for i in range(len(nums)):
+            num = nums[i]
+            complement = target - num
+
+            if complement in dic:
+                return [i, dic[complement]]
+
+            dic[num] = i
+        
