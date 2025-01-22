@@ -6,8 +6,7 @@ class Solution:
             if num not in counts:
                 counts[num] = nums.count(num)
             
-
-        counts = OrderedDict(sorted(counts.items(), key=lambda kv: kv[0], reverse=True))
+        counts = OrderedDict(sorted(counts.items(), reverse=True))
         for num, freq in counts.items():
             if freq == 1:
                 return num
