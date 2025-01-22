@@ -3,8 +3,6 @@ class Solution:
         ans = 0
         dic = {}
         for num in arr:
-            if num in dic:
-                continue
             dic[num] = arr.count(num)
         
         for num in arr:
