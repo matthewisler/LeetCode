@@ -83,6 +83,7 @@
 | [0735-asteroid-collision](https://github.com/matthewisler/LeetCode/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/matthewisler/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/matthewisler/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/matthewisler/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/matthewisler/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/matthewisler/LeetCode/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/matthewisler/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -116,6 +117,7 @@
 | [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/matthewisler/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/matthewisler/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/matthewisler/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/matthewisler/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-counting-elements](https://github.com/matthewisler/LeetCode/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/matthewisler/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -192,6 +194,7 @@
 | [0049-group-anagrams](https://github.com/matthewisler/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/matthewisler/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/matthewisler/LeetCode/tree/master/0268-missing-number) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/matthewisler/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/matthewisler/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/matthewisler/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/matthewisler/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -217,6 +220,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/matthewisler/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/matthewisler/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/matthewisler/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2331-intersection-of-multiple-arrays](https://github.com/matthewisler/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
