@@ -7,7 +7,7 @@ class Solution:
 
         for num in nums:
             curr += num
-            ans += counts[curr - k]
+            ans += counts[curr-k]
             counts[curr] += 1
-    
+        
         return ans
