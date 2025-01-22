@@ -2,7 +2,6 @@ class Solution:
     def maxNumberOfBalloons(self, text: str) -> int:
         from collections import Counter
         counter = Counter(text)
-        print(counter)
         balloon_set = set("balloon")
         if len(balloon_set & counter.keys()) != 5:
             return 0
