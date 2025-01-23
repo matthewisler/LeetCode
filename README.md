@@ -99,6 +99,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/matthewisler/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2331-intersection-of-multiple-arrays](https://github.com/matthewisler/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/matthewisler/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/matthewisler/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/matthewisler/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/matthewisler/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2427-first-letter-to-appear-twice](https://github.com/matthewisler/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/matthewisler/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/matthewisler/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/matthewisler/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/matthewisler/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/matthewisler/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -338,4 +341,8 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/matthewisler/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/matthewisler/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
