@@ -99,6 +99,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/matthewisler/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2331-intersection-of-multiple-arrays](https://github.com/matthewisler/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/matthewisler/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2428-equal-row-and-column-pairs](https://github.com/matthewisler/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/matthewisler/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/matthewisler/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/matthewisler/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2427-first-letter-to-appear-twice](https://github.com/matthewisler/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2428-equal-row-and-column-pairs](https://github.com/matthewisler/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/matthewisler/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
 |  |
@@ -255,6 +257,7 @@
 | [0067-add-binary](https://github.com/matthewisler/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/matthewisler/LeetCode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/matthewisler/LeetCode/tree/master/0735-asteroid-collision) |
+| [2428-equal-row-and-column-pairs](https://github.com/matthewisler/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
 |  |
@@ -290,6 +293,7 @@
 | [0036-valid-sudoku](https://github.com/matthewisler/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/matthewisler/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/matthewisler/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [2428-equal-row-and-column-pairs](https://github.com/matthewisler/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Recursion
 |  |
 | ------- |
