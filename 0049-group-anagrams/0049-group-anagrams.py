@@ -7,5 +7,5 @@ class Solution(object):
         from collections import defaultdict
         ans = defaultdict(list)
         for word in strs:
-            ans[tuple(sorted(word))].append(word)
+            ans["".join(sorted(word))].append(word)
         return list(ans.values())
