@@ -104,6 +104,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/matthewisler/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/matthewisler/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/matthewisler/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/matthewisler/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/matthewisler/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/matthewisler/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/matthewisler/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -238,6 +239,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/matthewisler/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/matthewisler/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/matthewisler/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/matthewisler/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/matthewisler/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/matthewisler/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2211-k-radius-subarray-averages](https://github.com/matthewisler/LeetCode/tree/master/2211-k-radius-subarray-averages) |
@@ -292,6 +294,7 @@
 | [0346-moving-average-from-data-stream](https://github.com/matthewisler/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0649-dota2-senate](https://github.com/matthewisler/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/matthewisler/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/matthewisler/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Data Stream
 |  |
 | ------- |
@@ -379,6 +382,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/matthewisler/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/matthewisler/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/matthewisler/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Monotonic Stack
 |  |
@@ -388,4 +392,9 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/matthewisler/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/matthewisler/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/matthewisler/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
