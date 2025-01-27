@@ -12,8 +12,6 @@ class Solution:
                     continue
                 if len(directory) > 0:
                     stack.append(directory)
-        
-        print(f"stack: {stack}")
 
         stack = [x for x in stack if len(x)>0]
         return '/'+'/'.join(stack)
