@@ -15,6 +15,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/matthewisler/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/matthewisler/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/matthewisler/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/matthewisler/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/matthewisler/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/matthewisler/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/matthewisler/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -45,6 +46,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/matthewisler/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0649-dota2-senate](https://github.com/matthewisler/LeetCode/tree/master/0649-dota2-senate) |
 | [0782-jewels-and-stones](https://github.com/matthewisler/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0874-backspace-string-compare](https://github.com/matthewisler/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/matthewisler/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/matthewisler/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/matthewisler/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -255,6 +257,7 @@
 | [0020-valid-parentheses](https://github.com/matthewisler/LeetCode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/matthewisler/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/matthewisler/LeetCode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/matthewisler/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/matthewisler/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/matthewisler/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -265,6 +268,7 @@
 | [0067-add-binary](https://github.com/matthewisler/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/matthewisler/LeetCode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/matthewisler/LeetCode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/matthewisler/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2428-equal-row-and-column-pairs](https://github.com/matthewisler/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
