@@ -84,6 +84,7 @@
 | [0268-missing-number](https://github.com/matthewisler/LeetCode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/matthewisler/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/matthewisler/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0346-moving-average-from-data-stream](https://github.com/matthewisler/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/matthewisler/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/matthewisler/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/matthewisler/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0346-moving-average-from-data-stream](https://github.com/matthewisler/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/matthewisler/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Randomized
@@ -282,11 +284,13 @@
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/matthewisler/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0649-dota2-senate](https://github.com/matthewisler/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/matthewisler/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/matthewisler/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0969-number-of-recent-calls](https://github.com/matthewisler/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
