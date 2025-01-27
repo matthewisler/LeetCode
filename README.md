@@ -46,6 +46,7 @@
 | [0649-dota2-senate](https://github.com/matthewisler/LeetCode/tree/master/0649-dota2-senate) |
 | [0782-jewels-and-stones](https://github.com/matthewisler/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0965-unique-email-addresses](https://github.com/matthewisler/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/matthewisler/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/matthewisler/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/matthewisler/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/matthewisler/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -254,6 +255,7 @@
 | [0020-valid-parentheses](https://github.com/matthewisler/LeetCode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/matthewisler/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/matthewisler/LeetCode/tree/master/0735-asteroid-collision) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/matthewisler/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/matthewisler/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
