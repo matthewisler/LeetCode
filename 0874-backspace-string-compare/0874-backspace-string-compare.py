@@ -17,7 +17,4 @@ class Solution:
             else:
                 t_stack.append(char)
 
-
-        print(f"s_stack = {''.join(s_stack)}")
-        print(f"t_stack = {''.join(t_stack)}")
         return "".join(s_stack) == "".join(t_stack)
