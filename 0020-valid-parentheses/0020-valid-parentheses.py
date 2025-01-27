@@ -18,7 +18,5 @@ class Solution:
                 if char != mapping[prev_char]:
                     return False
                 
-        if len(stack) == 0:
-            return True
-        return False
+        return not stack
         
