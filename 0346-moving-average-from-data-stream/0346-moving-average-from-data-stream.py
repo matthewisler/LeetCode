@@ -10,11 +10,11 @@ class MovingAverage:
         self.count += 1
         self.queue.append(val)
         if self.count > self.size:
-            tail = self.queue.popleft()
+            left = self.queue.popleft()
         else:
-            tail = 0
+            left = 0
         
-        self.window_sum = self.window_sum - tail + val
+        self.window_sum = self.window_sum - left + val
 
         return self.window_sum/min(self.size, self.count)
 
