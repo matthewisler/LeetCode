@@ -349,6 +349,7 @@
 | [0112-path-sum](https://github.com/matthewisler/LeetCode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/matthewisler/LeetCode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/matthewisler/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/matthewisler/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/matthewisler/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -363,6 +364,7 @@
 | [0112-path-sum](https://github.com/matthewisler/LeetCode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/matthewisler/LeetCode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/matthewisler/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/matthewisler/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -384,6 +386,7 @@
 | [0112-path-sum](https://github.com/matthewisler/LeetCode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/matthewisler/LeetCode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/matthewisler/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/matthewisler/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/matthewisler/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
