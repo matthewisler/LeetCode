@@ -345,6 +345,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/matthewisler/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/matthewisler/LeetCode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/matthewisler/LeetCode/tree/master/0437-path-sum-iii) |
@@ -357,6 +358,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/matthewisler/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/matthewisler/LeetCode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/matthewisler/LeetCode/tree/master/0437-path-sum-iii) |
@@ -368,6 +370,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/matthewisler/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/matthewisler/LeetCode/tree/master/0112-path-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -375,6 +378,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/matthewisler/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/matthewisler/LeetCode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/matthewisler/LeetCode/tree/master/0437-path-sum-iii) |
