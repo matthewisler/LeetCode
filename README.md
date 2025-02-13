@@ -343,6 +343,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/matthewisler/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/matthewisler/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/matthewisler/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -364,6 +365,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/matthewisler/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/matthewisler/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -396,6 +398,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/matthewisler/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/matthewisler/LeetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/matthewisler/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -417,6 +420,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/matthewisler/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/matthewisler/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/matthewisler/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/matthewisler/LeetCode/tree/master/0975-range-sum-of-bst) |
