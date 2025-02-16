@@ -79,6 +79,7 @@
 | [0135-candy](https://github.com/matthewisler/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/matthewisler/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/matthewisler/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/matthewisler/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/matthewisler/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/matthewisler/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/matthewisler/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -129,6 +130,7 @@
 | [0141-linked-list-cycle](https://github.com/matthewisler/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/matthewisler/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/matthewisler/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/matthewisler/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/matthewisler/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/matthewisler/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/matthewisler/LeetCode/tree/master/0268-missing-number) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/matthewisler/LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/matthewisler/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/matthewisler/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/matthewisler/LeetCode/tree/master/0268-missing-number) |
 | [1098-largest-unique-number](https://github.com/matthewisler/LeetCode/tree/master/1098-largest-unique-number) |
