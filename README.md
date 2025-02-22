@@ -116,6 +116,7 @@
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/matthewisler/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2428-equal-row-and-column-pairs](https://github.com/matthewisler/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/matthewisler/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3429-special-array-i](https://github.com/matthewisler/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
