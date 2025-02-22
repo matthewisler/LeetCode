@@ -14,7 +14,6 @@ class Solution:
 
         while queue:
             nodes_in_current_level = len(queue)
-            # do some logic here for the current level
             ans.append(queue[-1].val)
 
             for _ in range(nodes_in_current_level):
