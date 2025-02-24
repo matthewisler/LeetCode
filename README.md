@@ -115,6 +115,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/matthewisler/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/matthewisler/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2428-equal-row-and-column-pairs](https://github.com/matthewisler/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/matthewisler/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/matthewisler/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3429-special-array-i](https://github.com/matthewisler/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -158,6 +159,7 @@
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/matthewisler/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2427-first-letter-to-appear-twice](https://github.com/matthewisler/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/matthewisler/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/matthewisler/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/matthewisler/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
 |  |
@@ -299,6 +301,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/matthewisler/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/matthewisler/LeetCode/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/matthewisler/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/matthewisler/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Queue
 |  |
 | ------- |
@@ -377,6 +380,7 @@
 | [1254-deepest-leaves-sum](https://github.com/matthewisler/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/matthewisler/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -402,6 +406,7 @@
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/matthewisler/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/matthewisler/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -419,6 +424,7 @@
 | [1254-deepest-leaves-sum](https://github.com/matthewisler/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/matthewisler/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/matthewisler/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -477,4 +483,5 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/matthewisler/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/matthewisler/LeetCode/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/matthewisler/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/matthewisler/LeetCode/tree/master/2445-reachable-nodes-with-restrictions) |
 <!---LeetCode Topics End-->
