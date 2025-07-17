@@ -334,6 +334,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/matthewisler/LeetCode/tree/master/0197-rising-temperature) |
+| [1179-game-play-analysis-i](https://github.com/matthewisler/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/matthewisler/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Matrix
 |  |
