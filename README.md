@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/matthewisler/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/matthewisler/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/matthewisler/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/matthewisler/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/matthewisler/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/matthewisler/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/matthewisler/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/matthewisler/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/matthewisler/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -257,6 +259,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/matthewisler/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/matthewisler/LeetCode/tree/master/0045-jump-game-ii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/matthewisler/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
