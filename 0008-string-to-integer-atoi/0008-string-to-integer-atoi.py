@@ -1,6 +1,6 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
-        if s:
+        if len(s.strip()):
             output = []
             s = s.strip()
             neg = '-' == s[0]
