@@ -3,9 +3,6 @@ class Solution:
         count = nums.count(target)
         if count == 0:
             return [-1,-1]
-        
-        
-        
 
         start = nums.index(target)
 
