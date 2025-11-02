@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT
     e2.name
 FROM
