@@ -5,7 +5,7 @@ FROM
     Employee e1
 JOIN
     Employee e2
-WHERE
+ON
     e1.managerId = e2.id
 GROUP BY
     e1.managerId
