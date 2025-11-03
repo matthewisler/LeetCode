@@ -365,6 +365,7 @@
 | [1180-game-play-analysis-ii](https://github.com/matthewisler/LeetCode/tree/master/1180-game-play-analysis-ii) |
 | [1425-weather-type-in-each-country](https://github.com/matthewisler/LeetCode/tree/master/1425-weather-type-in-each-country) |
 | [1438-find-the-team-size](https://github.com/matthewisler/LeetCode/tree/master/1438-find-the-team-size) |
+| [1481-students-with-invalid-departments](https://github.com/matthewisler/LeetCode/tree/master/1481-students-with-invalid-departments) |
 | [1908-recyclable-and-low-fat-products](https://github.com/matthewisler/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Matrix
 |  |
