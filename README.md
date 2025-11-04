@@ -178,6 +178,7 @@
 | [0013-roman-to-integer](https://github.com/matthewisler/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/matthewisler/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/matthewisler/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/matthewisler/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/matthewisler/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/matthewisler/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/matthewisler/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -388,6 +389,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/matthewisler/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/matthewisler/LeetCode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/matthewisler/LeetCode/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/matthewisler/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Tree
@@ -527,4 +529,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/matthewisler/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/matthewisler/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
