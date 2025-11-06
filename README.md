@@ -95,6 +95,7 @@
 | [0238-product-of-array-except-self](https://github.com/matthewisler/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/matthewisler/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/matthewisler/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/matthewisler/LeetCode/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/matthewisler/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/matthewisler/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/matthewisler/LeetCode/tree/master/0346-moving-average-from-data-stream) |
@@ -246,6 +247,7 @@
 | [0217-contains-duplicate](https://github.com/matthewisler/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/matthewisler/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/matthewisler/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/matthewisler/LeetCode/tree/master/0274-h-index) |
 | [1098-largest-unique-number](https://github.com/matthewisler/LeetCode/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/matthewisler/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/matthewisler/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -538,4 +540,8 @@
 | ------- |
 | [0089-gray-code](https://github.com/matthewisler/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/matthewisler/LeetCode/tree/master/0090-subsets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/matthewisler/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
