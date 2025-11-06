@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/matthewisler/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/matthewisler/LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/matthewisler/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/matthewisler/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/matthewisler/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/matthewisler/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/matthewisler/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -48,6 +49,7 @@
 | [0290-word-pattern](https://github.com/matthewisler/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/matthewisler/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/matthewisler/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/matthewisler/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/matthewisler/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/matthewisler/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/matthewisler/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -277,6 +279,7 @@
 | [0005-longest-palindromic-substring](https://github.com/matthewisler/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/matthewisler/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/matthewisler/LeetCode/tree/master/0045-jump-game-ii) |
+| [0392-is-subsequence](https://github.com/matthewisler/LeetCode/tree/master/0392-is-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/matthewisler/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/matthewisler/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting
