@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/department-highest-salary">184. Department Highest Salary</a></h2><h3>Medium</h3><hr><p>Table: <code>Employee</code></p>
+<h2><a href="https://leetcode.com/problems/the-most-recent-orders-for-each-product/description/?envType=study-plan-v2&envId=premium-sql-50">184. Department Highest Salary</a></h2><h3>Medium</h3><hr><p>Table: <code>Employee</code></p>
 
 <pre>
 +--------------+---------+
