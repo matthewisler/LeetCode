@@ -383,6 +383,7 @@
 | [1481-students-with-invalid-departments](https://github.com/matthewisler/LeetCode/tree/master/1481-students-with-invalid-departments) |
 | [1551-npv-queries](https://github.com/matthewisler/LeetCode/tree/master/1551-npv-queries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/matthewisler/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1948-rearrange-products-table](https://github.com/matthewisler/LeetCode/tree/master/1948-rearrange-products-table) |
 ## Matrix
 |  |
 | ------- |
