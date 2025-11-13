@@ -125,6 +125,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/matthewisler/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/matthewisler/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/matthewisler/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2058-concatenation-of-array](https://github.com/matthewisler/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2211-k-radius-subarray-averages](https://github.com/matthewisler/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2331-intersection-of-multiple-arrays](https://github.com/matthewisler/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/matthewisler/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -314,6 +315,7 @@
 | [0068-text-justification](https://github.com/matthewisler/LeetCode/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/matthewisler/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/matthewisler/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2058-concatenation-of-array](https://github.com/matthewisler/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/matthewisler/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/matthewisler/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Union Find
