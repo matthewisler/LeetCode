@@ -390,6 +390,7 @@
 | [1453-ads-performance](https://github.com/matthewisler/LeetCode/tree/master/1453-ads-performance) |
 | [1481-students-with-invalid-departments](https://github.com/matthewisler/LeetCode/tree/master/1481-students-with-invalid-departments) |
 | [1551-npv-queries](https://github.com/matthewisler/LeetCode/tree/master/1551-npv-queries) |
+| [1671-the-most-recent-three-orders](https://github.com/matthewisler/LeetCode/tree/master/1671-the-most-recent-three-orders) |
 | [1688-the-most-recent-orders-for-each-product](https://github.com/matthewisler/LeetCode/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1908-recyclable-and-low-fat-products](https://github.com/matthewisler/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/matthewisler/LeetCode/tree/master/1948-rearrange-products-table) |
