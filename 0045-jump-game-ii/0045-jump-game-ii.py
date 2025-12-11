@@ -1,25 +1,22 @@
 class Solution:
     def jump(self, nums: List[int]) -> int:
-        #starting index of potential range
-        near = 0
-        #ending index of potential range
-        far = 0
-        #return value
-        jump_count = 0
+        jumps = 0
+        n = len(nums)
 
-        while far < len(nums) - 1:
-            #find the farthest we can go in 1 jump
-            farthest = 0
-            #loop through all potential jumps
-            for i in range(near, far + 1):
-                #get the farthest
-                farthest = max(farthest, i + nums[i])
-            
-            #take the jump
-            jump_count += 1
-            #new starting range is that furthest previous jump
-            near = far + 1
-            #new ending range is 
-            far = farthest
+        curr_end = 0
+        curr_far = 0
+
+        for i in range(n-1):
+            print(f"curr_far: {curr_far}")
+            print(f"i+nums[i]: {i+nums[i]}")
+            curr_far = max(curr_far, i+nums[i])
         
-        return jump_count
+            if i == curr_end:
+                jumps += 1
+                curr_end = curr_far
+        
+        return jumps
+
+
+
+
