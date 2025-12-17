@@ -1,20 +1,23 @@
 # Write your MySQL query statement below
 SELECT
-    Department.name AS 'Department',
-    Employee.name AS 'Employee',
+    d.name AS Department,
+    e.name AS Employee,
     Salary
 FROM
-    Employee
+    Employee e
 JOIN
-    Department 
-ON 
-    Employee.DepartmentId = Department.Id
+    Department d
+ON
+    e.departmentId = d.id
+
 WHERE
-    (Employee.DepartmentId , Salary) IN
-    (   SELECT
-            DepartmentId, MAX(Salary)
-        FROM
+    (e.DepartmentId, Salary) IN
+    (
+        SELECT
+            DepartmentId,
+            MAX(Salary)
+        From
             Employee
-        GROUP BY DepartmentId
+        GROUP BY
+            DepartmentID
     )
-;
